@@ -1,10 +1,12 @@
-# desafio-AWS-dio
+# Desafio de Implementação Bootcamp DIO + Gft.
+
+O Desafio é uma simulação para uma Implementação de recursos de serviços AWS numa empresa fictícia.
 
 
 # RELATORIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 26/08/2025.  
-Empresa: Abstract Industrias LTDA. (nome fictício).  
+Empresa: Abstract Industrias LTDA.  
 Responsável: Daniel de S. Silva.  
 
 ## Introdução
